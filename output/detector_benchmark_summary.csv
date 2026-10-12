@@ -1,0 +1,5 @@
+Detector,SAME Recall,False Positives,Precision,F1-Score,Overall Accuracy,Min SAME Inliers,Max NON-SAME Inliers,Separation Gap,Avg Time/Pair (ms)
+SIFT,10/10 (100%),0/90,100.0%,100.0%,100.0%,126,16,110,139.6
+ORB,10/10 (100%),0/90,100.0%,100.0%,100.0%,107,8,99,33.6
+AKAZE,10/10 (100%),0/90,100.0%,100.0%,100.0%,72,6,66,96.2
+BRISK,9/10 (90%),0/90,100.0%,94.7%,99.0%,31,10,21,143.6

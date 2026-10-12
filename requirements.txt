@@ -1,0 +1,7 @@
+# Core dependencies for NMG Image Matching Challenge
+opencv-contrib-python>=4.8.0,<5.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+scipy>=1.10.0

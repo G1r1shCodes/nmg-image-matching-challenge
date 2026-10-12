@@ -1,0 +1,5 @@
+Detector,rotation_scale,viewpoint,lighting,occlusion
+SIFT,3/3 (avg 1566 inliers),3/3 (avg 1870 inliers),2/2 (avg 162 inliers),2/2 (avg 454 inliers)
+ORB,3/3 (avg 277 inliers),3/3 (avg 289 inliers),2/2 (avg 176 inliers),2/2 (avg 421 inliers)
+AKAZE,3/3 (avg 314 inliers),3/3 (avg 540 inliers),2/2 (avg 220 inliers),2/2 (avg 390 inliers)
+BRISK,3/3 (avg 877 inliers),3/3 (avg 1356 inliers),1/2 (avg 50 inliers),2/2 (avg 124 inliers)
